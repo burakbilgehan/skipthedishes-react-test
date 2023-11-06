@@ -15,18 +15,20 @@ export type MovieResponse = {
   title: string;
   url: string;
   vehicles: string[];
-}
+};
 
 export type MovieListResponse = {
   count: number;
   next: number | null;
   previous: number | null;
   results: MovieResponse[];
-}
+};
 
 export async function getMovieList() {
   try {
-    const response = await axios.get<MovieListResponse>('https://swapi.dev/api/films');
+    const response = await axios.get<MovieListResponse>(
+      'https://swapi.dev/api/films',
+    );
     return response.data;
   } catch (e) {
     throw e;
