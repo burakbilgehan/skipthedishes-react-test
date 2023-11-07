@@ -2,13 +2,7 @@
 
 ## SKIPTHEDISHES REACT CHALLENGE
 
-### Submission Instructions
-
-You're going to be given access to the Skip's React challenge repository. You are asked to clone it to be able to complete the challenge below.
-
-When you are done with your assignments push a branch to the same repository with your name one it (i.e: `john-doe`)
-
-**NOTE: DO NOT OPEN A PULL REQUEST, PUSH YOUR BRANCH ONLY AND LET THE RECRUITER KNOW THAT YOU HAVE FINISHED.**
+**NOTE: DO NOT OPEN A PULL REQUEST, ZIP YOUR ASSIGNMENT AND LET THE RECRUITER KNOW THAT YOU HAVE FINISHED.**
 
 ### Introduction
 
